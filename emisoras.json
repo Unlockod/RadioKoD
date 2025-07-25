@@ -1,0 +1,14 @@
+[
+  {
+    "name": "103.7 D Sports Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac?dist="
+  },
+  {
+    "name": "99.1 Radio la plata",
+    "url": "https://radios.solumedia.com/6348/stream"
+  },
+  {
+    "name": "99.1 Cadena 3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3"
+  }
+]

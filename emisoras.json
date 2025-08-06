@@ -12,8 +12,9 @@
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3"
   },
   {
-    "name": "CNN Radio ARG"
+    "name": "CNN Radio ARG",
     "url": "https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio"
   }
 ]
+
 
